@@ -9,6 +9,7 @@
 ---
 
 
+
 <div align="center">
   <img src="https://github.com/notadamking/tensortrade/blob/master/docs/source/_static/logo.jpg">
 </div>
